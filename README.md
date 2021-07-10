@@ -1,6 +1,9 @@
-# bmi
+# Bmi Calculator
 
 A new Flutter project.
+I am sharing the Drive link of the App. Check it out:
+
+https://drive.google.com/file/d/1615CLOLYmv7QS044jX-i269KmJxPIJ0S/view?usp=sharing
 
 ## Getting Started
 
